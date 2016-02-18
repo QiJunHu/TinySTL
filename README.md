@@ -1,2 +1,2 @@
 # TinySTL
-A simple implementation of STL 
+A simple implementation of STL by Huqijun
